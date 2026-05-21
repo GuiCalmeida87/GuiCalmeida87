@@ -4,7 +4,7 @@ Hi, I'm Guilherme, a student passionate about technology!
 ## 🚀 About Me
 
 - 🔭 I'm currently looking for projects and job opportunities in the technology field.
-- 📚 I'm currently learning Docker to expand my knowledge.
+
 
 ## 💻 Tech Stack & Tools
 
